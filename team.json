@@ -1,0 +1,68 @@
+{
+  "clubes": [
+    {
+      "Id": 1,
+      "Name": "Club A"      
+    },
+    {
+      "Id": 2,
+      "Name": "Club B"
+    },
+    {
+      "Id": 3,
+      "Name": "Club C"
+    },
+    {
+      "Id": 4,
+      "Name": "Club D"
+    },
+    {
+      "Id": 5,
+      "Name": "Club E"
+    },
+    {
+      "Id": 6,
+      "Name": "Club F"
+    },
+    {
+      "Id": 7,
+      "Name": "Club G"
+    },
+    {
+      "Id": 8,
+      "Name": "Club H"
+    },
+    {
+      "Id": 9,
+      "Name": "Club I"
+    },
+    {
+      "Id": 10,
+      "Name": "Club J"
+    },
+    {
+      "Id": 11,
+      "Name": "Club K"
+    },
+    {
+      "Id": 12,
+      "Name": "Club L"
+    },
+    {
+      "Id": 13,
+      "Name": "Club M"
+    },
+    {
+      "Id": 14,
+      "Name": "Club N"
+    },
+    {
+      "Id": 15,
+      "Name": "Club O"
+    },
+    {
+      "Id": 16,
+      "Name": "Club Q"
+    }
+  ]
+}
